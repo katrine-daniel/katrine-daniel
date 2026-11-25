@@ -35,7 +35,6 @@ One secure backend, database, audit trail and reporting engine for a travel busi
 | [**PeopleOS (TalentNest)**](https://github.com/katrine-daniel/TalentNest) | HR operations platform — employee records, service desk, leave approvals, onboarding, workflow automation, analytics, role-based permissions | React · TypeScript · Supabase · Playwright | [Demo](https://katrine-daniel.github.io/TalentNest/) |
 | [**Print N Craft**](https://github.com/katrine-daniel/PRINT-N-CRAFT) | Client website for a Gurugram printing & signage business, with service catalogue and an estimate calculator that sends quotes to WhatsApp | React · Vite · Tailwind CSS | [Site](https://print-n-craft.vercel.app) |
 | [**Mobility-Aware WSN**](https://github.com/katrine-daniel/WirelessTCP) | Wireless sensor network simulator measuring how node mobility affects delivery and delay, with ML link-failure prediction and a live dashboard | Python · scikit-learn · Streamlit · NetworkX | — |
-| [**Onefinerate – Flight Booking**](https://github.com/katrine-daniel/Flight-Booking) | Flight search UI with airport pickers, a two-month date picker and a sortable results page | React · TypeScript · Tailwind CSS | [Demo](https://katrine-daniel.github.io/Flight-Booking/) |
 | [**Portfolio**](https://github.com/katrine-daniel/Katrine-Portfolio) | My game dev & design portfolio — Unity, Unreal Engine 5, Blender, UI/UX | HTML · Tailwind CSS · JavaScript | [Site](https://katrine-daniel.github.io/Katrine-Portfolio/) |
 
 ---
